@@ -1,0 +1,7 @@
+User Bank ID: 1
+Name: Munna
+Phone Number: 30971
+Date of Birth: 342
+Password: 1111
+Balance: 0.00
+

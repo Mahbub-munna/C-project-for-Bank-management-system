@@ -1,0 +1,42 @@
+User Bank ID: 3
+Name: Sunny
+Phone Number: 0000
+Date of Birth: 0000
+Password: 2222
+Balance: 1100.00
+
+User Bank ID: 4
+Name: m
+Phone Number: 000
+Date of Birth: 999
+Password: 2222
+Balance: 0.00
+
+User Bank ID: 6
+Name: Y
+Phone Number: 0
+Date of Birth: 0
+Password: 1
+Balance: 9778.00
+
+User Bank ID: 7
+Name: skjdks
+Phone Number: 1
+Date of Birth: 12
+Password: 11
+Balance: 0.00
+
+User Bank ID: 8
+Name: munna
+Phone Number: 017
+Date of Birth: 10-10-2003
+Password: 1
+Balance: 500.00
+
+User Bank ID: 9
+Name: sunny
+Phone Number: 017
+Date of Birth: 10-19-1999
+Password: 2
+Balance: 300.00
+
